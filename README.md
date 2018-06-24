@@ -13,7 +13,7 @@ This material was provided mainly by https://medium.com/factory-mind/websocket-n
 
 ## Programming language
 ```[typescript]
-# Typescript
+// Typescript
 ```
 
 ## Author
