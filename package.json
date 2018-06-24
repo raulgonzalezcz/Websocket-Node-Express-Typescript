@@ -1,0 +1,26 @@
+{
+  "name": "websocket-node-express-ts",
+  "version": "1.0.0",
+  "description": "This is a quick step by step tutorial about WebSocket, Node/Express and Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "node",
+    "express",
+    "typescript"
+  ],
+  "author": "Raúl González Cruz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ws": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0",
+    "@types/ws": "^5.1.2",
+    "typescript": "^2.9.2"
+  }
+}
